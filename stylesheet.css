@@ -8,6 +8,7 @@ body {
 }
 .header{
   position: fixed;
+  background-image: url(room/abstract-sky-pastel-rainbow-gradient-background-ecology-concept_29865-1596.jpg);
   background-image:url(img/abstract-sky-pastel-rainbow-gradient-background-ecology-concept_29865-1596.jpg);
   background-size: cover;
   width:100%;
