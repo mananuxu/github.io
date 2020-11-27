@@ -5,6 +5,9 @@
 body {
   width:100%;
   font-family: "メイリオ" ;
+  background-color:#0FF;
+  background-size: cover;
+  background-attachment: fixed;
 }
 .header{
   position: fixed;
@@ -26,8 +29,6 @@ body {
 .main{
   width:100%;
   height:100%;
-  background-color:#0FF;
-  background-size: cover;
 }
 .main h3{
 
