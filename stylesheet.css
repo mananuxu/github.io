@@ -10,6 +10,7 @@ body {
   background-attachment: fixed;
 }
 .header{
+  position: fixed;
   background-image:url(AmazonPhotos/abstract-sky-pastel-rainbow-gradient-background-ecology-concept_29865-1596.jpg);
   background-size: cover;
   width:100%;
